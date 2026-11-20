@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+results/*.log
+results/*.err
+results/*.pid
+results/smoke.json
